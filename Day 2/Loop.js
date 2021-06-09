@@ -28,8 +28,3 @@ function isVowel(x){
            x == 'o' ||
            x == 'u' ;
 }
-
-function main() {
-    const s = readLine();
-    vowelsAndConsonants(s);
-}
